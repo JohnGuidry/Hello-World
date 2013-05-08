@@ -1,1 +1,13 @@
-Hello World!
+This program prints the line 
+Hello World! 
+into the terminal window. 
+
+1) Download the program and save the program in the desired
+   directory.
+2) Unzip the program.
+3) Change to the program's directory
+4) Type the command
+make
+5) Type the command
+./helloWorld
+ 
